@@ -1,0 +1,67 @@
+Pseudocode
+
+Variables assigned using = 
+Casting --> str, int, float
+global variable
+local variable
+
+print("text")
+
+Iteration
+Count Controlled
+for i = 0 to 5
+	print("text")
+next i
+
+Condition Controlled
+while egg!=TRUE
+	print("lay an egg")
+endwhile
+do	
+	print("lay an egg")
+until egg==TRUE
+
+Operators
+==
+!=
+<
+>
+<=
+>=
++
+-
+*
+/
+MOD gives remainder
+DIV quotient
+^
+
+Selection
+If/Else
+Switch/Case
+
+String
+.length
+.subString(start, no of characters)
+
+function - returns a value
+procedure - does not return value
+
+Arrays[]
+
+Comments //
+
+Text Files
+openRead
+.readLine()
+.close
+openWrite
+.writeLine
+
+OOP
+getter and setter
+class
+	private attributes
+	publie procedure new(Aattributes)
+		attributes=Aattributes
+	endprocedure

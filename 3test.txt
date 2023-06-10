@@ -1,0 +1,3 @@
+What data type is used to store whole numbers?;Int;String;Char;Boolean
+What outputs data?;print();input();int();bonk()
+What is not a programming construct?;Bonk;Sequence;Selection;Iteration

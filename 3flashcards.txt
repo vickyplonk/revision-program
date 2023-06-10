@@ -1,0 +1,18 @@
+Pseudocode,Written Code
+Output,print("")
+Input,variable=input("")
+Casting, use str int float
+types of variables, global + local
+ssi, sequence selection iteration
+count controlled, for loop
+condition controlled, while loop or do until
+operators, == != < > <= >= + - * / MOD DIV ^
+selection, if else + switch case
+string manipulation, .length +.substring(start and number of characters)
+function, returns value
+procedure, doesnt return value
+arrays, []
+comments,//
+textfile, openRead readLine() close openWrite writeLine
+OOP,getter and setter
+class, public procedure new

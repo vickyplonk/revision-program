@@ -1,0 +1,17 @@
+Term,Answer
+OOP,Object Orientated Programming - a paradigm
+Attributes, Describe the object
+Methods, Behaviours of the object
+Class, Blueprint for an object
+Constructor, A method with the name new
+Instantiation, Creating a new object from a class
+Object, Instance of a Class
+Getter, Function returning value of an attribute
+Setter, Procedure changing the state of an object
+Encapsulation, Method and attributes kept private and cannot affect other objects
+Inheritance, A class can acquire methods and attributes of other classes
+Subclass, Inherits from a superclass
+Superclass, A class that another inherits from
+Polymorphism, Objects can behave differently in different contexts due to overriding and overloading
+Overriding, Writing a different version of a method that a class inherited but using the same name and formal argument types
+Overloading, Having different versions of a method with the same name due to having different parameters

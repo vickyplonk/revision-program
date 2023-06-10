@@ -1,0 +1,4 @@
+What is OOP?;Object-Orientated Programming;Oddly-Oblong Poop;Orange-Onions Plonk;Operational-Objectional Porg
+What word is not associated with OOP?;Bonk;Class;Polymorphism;Instantiation
+What does a class diagram not contain?;Colour;Name;Methods;Attributes
+What describes "a technique for keeping things contained"?;Encapsulation;Polymorphism;Instantiation;Attributes

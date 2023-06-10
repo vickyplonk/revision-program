@@ -1,0 +1,39 @@
+Structure and Function of the Processor
+
+CPU - Controls and carries out the processing of the computer by following the instructions given to it
+
+ALU - Arithmetic and Logic Unit - arithmetic operations(+-x/), logical operations (AND OR NOT XOR)
+
+CU - Control Unit - Controls the flow of data around the CPU by sending control signals and controlling the bus, decodes instructions, directs flow of data
+
+Registers - high speed memory cells, up to 16 general purpose registers in the CPU
+Program Counter - PC holds address of next instruction
+Accumulator - ACC short term storage for ALU results
+Memory Address Register - MAR holds address of memory location
+Memory Data Register - MDR temp storage, holds data/instruction to be decoded
+Current Instruction Register - holds instruction decoded into operand and opcode
+
+Buses - parallel wires, 8 16 32 64 lines
+System Bus - data, address and control bus
+Data Bus - bi directional
+Address Bus - memory divide into words, fixed soze group of digits
+Control Bus - control lines
+Bus Request, Bus Grant, Memory Write, Memory Read, Interrupt Request, Clock
+
+Fetch-Decode-Execute Cycle
+1. The PC contains address of next instruction (copied from PC to MAR)
+2. Instruction at address copied to MDR, simultaneously PC is incremented by 1 to hold the next instruction
+3. Contents of MDR copied to CIR
+4. CU decodes CIR instruction into opcode and operand
+5. Opcode is carried out on operand
+
+Factors affecting CPU Performance
+Clock Speed
+Cache Size
+No. of Processors
+
+Pipelining
+
+Von Neumann - stored program concept, shared memory and shared bus, single ALU, single bus, FDE
+Harvard - separate memories
+Contemporary Processors - mix of both

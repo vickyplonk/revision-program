@@ -1,0 +1,18 @@
+
+#########Computer Science Revision Program Help/Tutorial#########
+
+
+To use this Computer Science Revision Program:
+
+Click the buttons, for example if you would like to revise. Click the Revision Button.
+From there you can use the drop-down menu to select the topic and revision mode you would like to use.
+
+If you would like to go to the home page, press the home button.
+
+If you would like to go to the settings page, press the settings button.
+On the settings page, you are able to change the font size and the background colour.
+
+If you would like to go to the pets page, press the pets button.
+You can create a pet and it will open in a new window.
+
+If you are struggling to use the program, press the home button and it will take you to the home page.

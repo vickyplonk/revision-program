@@ -1,0 +1,12 @@
+Object-Orientated Programming
+
+Class - A blueprint/template for an object
+Class Diagram - Class Name, Attributes, Methods
+Object - Instance of a class
+Instantiation - Creating an object using a class
+
+Attributes - declared as private --> Getters and Setters
+
+Encapsulation - technique for information hiding
+
+Polymorphism - when it acts differently based on the context

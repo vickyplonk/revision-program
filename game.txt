@@ -1,0 +1,2 @@
+CPU;Main Part of the Computer;Does the processing for the computer;3 letters
+CU;Controls and Coordinates CPU;2 letters;Unit

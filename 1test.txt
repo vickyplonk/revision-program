@@ -1,0 +1,7 @@
+What does CPU stand for?;Central Processing Unit;Central Power Unit;Circular Power Unit;Circular Processing Unit
+What does the ALU do?;Arithmetic and logical operations;Control the Flow of Data;Directs buses;Eats Buses
+Which is a register?;MDR;CU;CPU;RAM
+Which one is not a bus?;CU Bus;Data Bus;Address Bus;Bus Request
+What cycle is followed to carry out processing of the computer?;Fetch-Decode-Execute;Process-Deposit-End;Fetch-Deposit-End;Process-Decode-End
+What is a process to improve processing efficiency?;Pipelining;Tubelining;Fastlining;Piping
+What does not effect CPU performance?;Chickens;Cache Size;Number of Cores;Clock Speed

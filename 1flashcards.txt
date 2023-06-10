@@ -1,0 +1,32 @@
+CPU;Central Processing Unit
+CU;Controls and coordinates the activites of the CPU, directs the flow of data between the CPU and peripherals, manages FDE cycle
+Bus;Set of parallel wires
+System Bus;Address Bus + Data Bus + Control Bus
+Address Bus;Unidirectional bus
+Data Bus;Bidirectional Bus
+Control Bus;Bidirectional Bus
+Control Line;Bus Request + Bus Grant + Memory Write + Memory Read + Interrupt Request + Clock
+Word;Fixed size group of digits handled as a unit by the processor
+ALU;Arithmetic and Logic Unit
+Register;High speed memory cells
+ACC;"Short term, intermediate storage"
+PC;Program Counter
+MDR;Temp store data AKA memory buffer register
+MAR;holds the address of the memory location from which data or an instruction is to be fetched or to which data is to be written
+FDE;the basic cycle that a CPU carries out to process and execute an instruction
+Opcode;Operation to be performed and hardware to be used
+Operand;Address of data or actual data
+Factors affecting CPU Performance;Clock Speed + Number of Cores + Amount of Cache
+System Clock;Device generates signals 0-->1
+Cache Memory;Fast storage medium - closer to CPU than RAM
+VN Architecture;Stored program Concept + shared memory and bus + single ALU
+Harvard;Separate memories for data and instructions
+DSP;Digital Signal Processing Systems
+Embedded Systems;Special Purpose systems built into large mechanical systems or devices
+Pipelining;One instruction fetched while another decoded and another executed
+VN Bottleneck;CPU has to wait + limits efficiency
+Arithmetic Pipeline;Pipeline for ALU operations
+Instruction Pipeline;Used for FDE
+Pipeline Stall;Parts of CPU are dormant waiting for other parts to finish processing
+Flush;Flush the pipeline
+Hyper Threading;Pipeline bubbles filled with other instructions from different threads
